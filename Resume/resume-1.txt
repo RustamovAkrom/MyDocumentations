@@ -1,0 +1,42 @@
+Rustamov Akrom
+
+Tel:  +998(95) 878-62-77
+Email:  akromjonrustamov56@gmail.com
+Linkedin: ...
+GitHhub: https://github.com/RustamovAkrom
+
+
+Men haqimda
+
+Men juda bilimga chanqoq Python web dasturchisiman web-frameworklarni keng tarizda qolab quvatlay olaman
+va ularni kengaytirish uchun tashqi modulardan foydalanaman, biron bir muamoga nodatiy yondashishni yahshi koraman
+loyihalarimni kengaytirip tolip automatizatsiyalashtirishni yahshi koraman. Hozirda men ozimni bilimlarimni va konikmalarimni
+oshirip haqiqiy proektlar ustida ishlab yangi texnologiyalarni organip borishga harakat qilyapman.
+
+
+Talim:
+
+ - Orta umun talim maktabi.
+ - Najot Talim oquv markazi.
+
+
+Texnik konikmalar:
+
+ - Dasturlash tilari: Python, PostgreSQL, HTML, CSS.
+ - Frameworklar: FastApi, Django(DRF), Flask.
+ - malumotlar bazalari: SQLite, PostgreSQL.
+ - Asboblar: Linux, Git, Docker, Redis, NGINX, Celery
+ - pythonda asynxron funksiyalar bilan ishlash tajribasi.
+
+
+Loyihalar:
+
+ - Avozli yordamchi:
+    * Rus tilini tushinadi va undagi buyruqlarni bajaradi masalan brauzerga kiritilgan sozni qidiruvga beradi,
+      Wikipediyadan malumotlarni qidiradi, musikani yoqadi, qoshimcha dasturiy onyalarni ochadi, kompyuterni 
+      ochirip, qayta ishga tushiradi, korzinkani tozalay oladi. 
+      ...
+
+ - AkromDev:
+    * Shahsiy web sayt: musikalar, videolar, audiolar hamasi bir sayta va postlar uchun blog sahifasi ham
+      mavjud Authorizatsiya, Autentifikatsiya, Registratsiya bolimlari bilan.
