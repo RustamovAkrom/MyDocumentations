@@ -1,0 +1,12 @@
+[Unit]
+Description=Celery Service
+After=network.target
+
+[Service]
+User=root
+Group=www-data
+WorkingDirectory=/home/AkromDev
+ExecStart=/home/AkromDev/env/bin/celery -A core  worker --loglevel=info
+
+[Install]
+WantedBy=multi-user.target
